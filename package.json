@@ -1,11 +1,12 @@
 {
-  "name": "desafio-backend-m03-b2bt05",
+  "name": "api-contas-pessoais",
   "version": "1.0.0",
   "description": "![](https://i.imgur.com/xG74tOh.png)",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon ./src/index.js",
-    "migrate": "knex migrate:latest"
+    "migrate": "knex migrate:latest",
+    "start": "node ./src/index.js"
   },
   "author": "",
   "license": "ISC",
