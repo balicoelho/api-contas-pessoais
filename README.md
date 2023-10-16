@@ -1,4 +1,6 @@
-Desenvolvimento de uma RESTful API que permite:
+API disponível em: https://api-contas-pessoais.vercel.app/
+
+## Desenvolvimento de uma RESTful API com banco de dados, que permite:
 
 - Cadastrar Usuário
 - Fazer Login
@@ -12,6 +14,10 @@ Desenvolvimento de uma RESTful API que permite:
 - Remover transação
 - Obter extrato de transações
 - [Extra] Filtrar transações por categoria
+
+## Para executar:
+
+1. Faça a importação do DumpInsomnia para configurar todos os endpoint e começar a utilizar.
 
 **Importante: Cada usuário só pode ver e manipular seus próprios dados e suas próprias transações.**
 
