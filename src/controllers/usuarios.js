@@ -26,7 +26,7 @@ const criarUsuario = async (req, res) => {
 
     return res.status(201).json(novoUsuario);
   } catch (error) {
-    return res.status(500).json({ mensagem: error.message });
+    return res.status(500).json({ mensagem: error });
   }
 };
 
