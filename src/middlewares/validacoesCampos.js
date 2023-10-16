@@ -4,7 +4,7 @@ const validacoesCampos = (schema) => async (req, res, next) => {
 
     next();
   } catch (error) {
-    return res.status(400).json({ messagem: error });
+    return res.status(400).json({ messagem: error.message });
   }
 };
 

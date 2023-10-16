@@ -11,5 +11,3 @@ app.use(rotas);
 app.listen(process.env.PORT, () => {
   console.log(`Server online on port ${process.env.PORT} 🚀`);
 });
-
-// export default app;
