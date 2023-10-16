@@ -17,7 +17,12 @@
 
 ## Para executar:
 
-Faça a importação do DumpInsomnia para configurar todos os endpoint e começar a utilizar.
+1. Faça a importação do DumpInsomnia para configurar todos os endpoint.
+2. Configure o Bearer Token do Insomnia para inserir o token automaticamente nas rotas em que o mesmo é obrigatório:
+   ![image](https://github.com/balicoelho/api-contas-pessoais/assets/120601038/0d074b28-1d8e-42c2-a50e-e0de75bbd9c1)
+ ![image](https://github.com/balicoelho/api-contas-pessoais/assets/120601038/e6112f41-25be-4b43-b3d0-809dcbae9758)
+![image](https://github.com/balicoelho/api-contas-pessoais/assets/120601038/8170a8b0-3586-439d-b2aa-7ce0fb28ceb0)
+
 
 ## Requsitos da API:
 
