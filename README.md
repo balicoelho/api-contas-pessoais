@@ -17,7 +17,9 @@ API disponível em: https://api-contas-pessoais.vercel.app/
 
 ## Para executar:
 
-1. Faça a importação do DumpInsomnia para configurar todos os endpoint e começar a utilizar.
+Faça a importação do DumpInsomnia para configurar todos os endpoint e começar a utilizar.
+
+## Requsitos da API:
 
 **Importante: Cada usuário só pode ver e manipular seus próprios dados e suas próprias transações.**
 
